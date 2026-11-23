@@ -98,7 +98,7 @@ if __name__ == "__main__":
 ```
 ## Output:
 
-![img]()
+![img](https://github.com/Girithickrohan/Ex-7-AAI/blob/main/Screenshot%202026-11-23%20090014.png)
 
 ## Result:
 Thus ,the program to perform the Text summarization is executed sucessfully.
