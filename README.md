@@ -1,7 +1,7 @@
 <H3>NAME: GIRITHICK ROHAN N</H3>
 <H3>REG NO: 212223230063</H3>
 <H3>EX. NO.9</H3>
-<H3>DATE: 22.08.2026</H3>
+<H3>DATE: 23.11.2026</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 <H3>Aim: to perform automatic text summarization using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
